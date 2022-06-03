@@ -18,3 +18,7 @@ jobs:
           output_action: commit
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
+          user: daigotanaka0714
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Tokyo
