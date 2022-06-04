@@ -1,3 +1,4 @@
+![Metrics](https://metrics.lecoq.io/daigotanaka0714?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FTokyo)
 
 
 <!--
