@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+
 
 <!--
 **daigotanaka0714/daigotanaka0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
