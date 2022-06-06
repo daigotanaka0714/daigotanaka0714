@@ -1,4 +1,5 @@
-![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/daigotanaka0714?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FTokyo)
+
 
 <!--
 **daigotanaka0714/daigotanaka0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
